@@ -36,6 +36,9 @@ V3
 - Added an option to exit the program.
 
 V4
--
+- Updated login to accept either username or email.
+- Removed email requirement during login.
+- Made username and email matching case-insensitive.
+- Added duplicate username and email checks during registration.
 
 V5
